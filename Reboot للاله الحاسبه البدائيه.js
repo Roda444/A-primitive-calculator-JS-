@@ -1,0 +1,7 @@
+let a = parseFloat( prompt("num 1 : ") )
+let b = parseFloat( prompt("num 2 : ") )
+console.log("in + =",a + b)
+console.log("in - =",a - b)
+console.log("in * =",a * b)
+console.log("in / =",a / b)
+console.log("in % =",a % b)
